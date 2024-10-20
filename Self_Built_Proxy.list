@@ -4,3 +4,5 @@ DOMAIN-KEYWORD,fscloud
 DOMAIN-KEYWORD,bujiasu
 # 域名后缀匹配
 DOMAIN-SUFFIX,psub.2352734131.workers.dev
+# 图床
+DOMAIN-SUFFIX,cloudflare-imgbed-1mg.pages.dev
