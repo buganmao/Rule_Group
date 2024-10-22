@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,cloudflare-imgbed-1mg.pages.dev
 
 # perplexity
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-KEYWORD,perplexity
+;DOMAIN-KEYWORD,perplexity
