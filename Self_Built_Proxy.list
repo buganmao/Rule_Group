@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,bujiasu
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,psub.2352734131.workers.dev
+DOMAIN-SUFFIX,sub.v1.mk
 # 图床
 DOMAIN-SUFFIX,cloudflare-imgbed-1mg.pages.dev
 
