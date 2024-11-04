@@ -10,6 +10,5 @@ DOMAIN-SUFFIX,sub.v1.mk 
 # 图床 
 DOMAIN-SUFFIX,cloudflare-imgbed-1mg.pages.dev 
 
-# perplexity 
-DOMAIN-SUFFIX,perplexity.ai 
-# DOMAIN-KEYWORD,perplexity
+# perplexity DOMAIN-KEYWORD
+DOMAIN-SUFFIX,perplexity.ai
