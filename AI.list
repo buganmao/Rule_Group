@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,cursor
 # 域名后缀匹配
 
 # perplexity DOMAIN-KEYWORD
@@ -32,3 +33,4 @@ DOMAIN-SUFFIX,lambda.chat
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,accounts.x.ai
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,api2.cursor.sh
