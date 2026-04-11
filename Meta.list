@@ -1,7 +1,14 @@
-# Meta AI 及相关依赖域名
+# Meta AI 专用规则 走MetaAi 组
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,work.meta.com   # 部分企业/高级功能
