@@ -4,9 +4,6 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,cursor
-DOMAIN-KEYWORD,windsurf
-DOMAIN-KEYWORD,meta
-# DOMAIN-KEYWORD,augment
 
 # 域名后缀匹配
 
@@ -32,7 +29,6 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
-DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,lambda.chat
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,accounts.x.ai
