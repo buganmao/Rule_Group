@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,5ddd.com
 
 # 林亦AI排行榜
 DOMAIN-SUFFIX,lyihub.com
-#Google Play
+# Google Play
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,googleapis.cn,DIRECT
 DOMAIN,clientservices.googleapis.com
