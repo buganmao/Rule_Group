@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,psub.2352734131.workers.dev 
 DOMAIN-SUFFIX,sub.v1.mk 
 # 图床 
 DOMAIN-SUFFIX,cloudflare-imgbed-1mg.pages.dev 
-#Google play
+# Google Play  
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,clientservices.googleapis.com
