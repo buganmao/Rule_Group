@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,lambda.chat
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,accounts.x.ai
 DOMAIN-SUFFIX,aistudio.google.com
 # DOMAIN-SUFFIX,api2.cursor.sh
