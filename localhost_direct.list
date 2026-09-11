@@ -1,0 +1,2 @@
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,::1/128,no-resolve
