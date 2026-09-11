@@ -1,7 +1,7 @@
 # 内容：OpenAi Bard anthropic
 # 域名后缀匹配
 
-# perplexity DOMAIN-KEYWORD
+# perplexity DOMAIN-KEYWORD
 DOMAIN-SUFFIX,perplexity.ai
 
 DOMAIN-SUFFIX,chatgpt.com
@@ -35,13 +35,12 @@ DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,notebooklm.google.com
 
-DOMAIN-KEYWORD,accounts.google.com
+DOMAIN-KEYWORD,antigravity
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-KEYWORD,antigravity
 DOMAIN-KEYWORD,app.kiro.dev
-# Google Play  
+# Google Play
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,clientservices.googleapis.com
