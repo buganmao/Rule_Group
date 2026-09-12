@@ -38,14 +38,35 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-KEYWORD,antigravity
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-KEYWORD,app.kiro.dev
+#DOMAIN-SUFFIX,aistudio.google.com   <- [wb] 与上文重复
+DOMAIN-SUFFIX,kiro.dev
 # Google Play
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN,clientservices.googleapis.com
-DOMAIN,update.googleapis.com
+#DOMAIN-SUFFIX,googleapis.cn   <- [wb] 死规则：被 ini 顶部 🍀 Google / Self-Built_Direct.list 抢先匹配，永不生效
+#DOMAIN-SUFFIX,xn--ngstr-lra8j.com   <- [wb] 死规则：被 ini 顶部 🍀 Google / Self-Built_Direct.list 抢先匹配，永不生效
+#DOMAIN,clientservices.googleapis.com   <- [wb] 死规则：被 ini 顶部 🍀 Google / Self-Built_Direct.list 抢先匹配，永不生效
+#DOMAIN,update.googleapis.com   <- [wb] 死规则：被 ini 顶部 🍀 Google / Self-Built_Direct.list 抢先匹配，永不生效
 DOMAIN,gstatic.com
+
+# ============ [wb] 补充：AI 服务与登录链路必需域名 ============
+# ChatGPT 登录的人机验证走 Cloudflare Turnstile，缺这条会导致登录卡住/失败
+DOMAIN-SUFFIX,challenges.cloudflare.com
+# ChatGPT 实时语音 / 会话
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# ChatGPT 移动客户端
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
+# Claude 上传文件回源
+DOMAIN-SUFFIX,claudeusercontent.com
+# Cursor 编辑器
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+# 其他常用 AI 服务
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,deepmind.com
+# ============================================================
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
