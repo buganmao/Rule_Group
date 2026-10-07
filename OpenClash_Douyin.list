@@ -1,0 +1,20 @@
+# 🤳 抖音 —— 由 OpenClash 配置转换生成
+# 共 14 条规则（🤳 抖音）
+# 格式: TYPE,VALUE  |  本文件由 ruleset=🤳 抖音 引用
+
+# ---- 精确域名（DOMAIN）----
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,zijieapi.com
