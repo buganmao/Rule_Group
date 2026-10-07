@@ -1,0 +1,23 @@
+# 🍬 Meta —— 由 OpenClash 配置转换生成
+# 共 16 条规则（🍬 Meta）
+# 格式: TYPE,VALUE  |  本文件由 ruleset=🍬 Meta 引用
+
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,work.meta.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,facebook
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,muse.meta.com
+DOMAIN-SUFFIX,metaaivm.com
