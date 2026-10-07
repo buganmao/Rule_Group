@@ -1,0 +1,10 @@
+# 🎮 游戏平台 —— 由 OpenClash 配置转换生成
+# 共 5 条规则（🎮 游戏平台）
+# 格式: TYPE,VALUE  |  本文件由 ruleset=🎮 游戏平台 引用
+
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.media
