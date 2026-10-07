@@ -1,0 +1,124 @@
+# 🤪 绕港澳线路 —— 由 Qi樱花椰皮混合.yaml 转换生成
+# 共 99 条规则（🤪 绕港澳线路）
+# 格式: TYPE,VALUE  |  本文件由 ruleset=🤪 绕港澳线路 引用
+
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,tokenharbor.ai
+DOMAIN-SUFFIX,experientiallabs.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,downloads.claude.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,lambda.chat
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,accounts.x.ai
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN-SUFFIX,notebooklm.google.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,accounts.google.com
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,antigravity
+DOMAIN-KEYWORD,app.kiro.dev
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# ---- 精确域名（DOMAIN）----
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,gstatic.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,cursor
+# ---- 精确域名（DOMAIN）----
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,static.cloudflareinsights.com
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,turn.livekit.cloud
+# ---- IPv4 网段（IP-CIDR）----
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+# ---- ASN（IP-ASN）----
+IP-ASN,20473,no-resolve
+# ---- 精确域名（DOMAIN）----
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,cloudcode-pa
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,oauth2.googleapis.com
+# ---- 精确域名（DOMAIN）----
+DOMAIN,api.msn.com
+DOMAIN,api.statsig.com
+DOMAIN,assets.msn.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,in.appcenter.ms
+DOMAIN,location.microsoft.com
+DOMAIN,odc.officeapps.live.com
+DOMAIN,r.bing.com
+DOMAIN,self.events.data.microsoft.com
+DOMAIN,services.bingapis.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# ---- 域名后缀（DOMAIN-SUFFIX）----
+DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+# ---- 域名关键词（DOMAIN-KEYWORD）----
+DOMAIN-KEYWORD,openaicom-api
+# ---- ASN（IP-ASN）----
+IP-ASN,14061,no-resolve
